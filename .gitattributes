@@ -1,1 +1,2 @@
 asile[[:space:]]11[[:space:]]to[[:space:]]15.fbx filter=lfs diff=lfs merge=lfs -text
+XRmodel.zip filter=lfs diff=lfs merge=lfs -text
